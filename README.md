@@ -290,7 +290,7 @@ Herhangi bir sorun yaşarsanız:
 
 ## 📄 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+Bu proje GNU General Public  v3.0 lisansı altında lisanslanmıştır.
 
 ---
 
